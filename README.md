@@ -1,16 +1,3 @@
-# i_am_strong
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Ganti file gambarku dengan gambar kata-kata motivasi kamu sendiri
+2. Ganti file pubspec.yaml dengan cara (  -gambarku/gambar kalian.jpg )
+3. sesuaikan file gambar kalian agar bisa terbaca seperti .jpg .png .jpeg
